@@ -1,30 +1,75 @@
-## 💰 Salary Benchmarking
-Median annual salary for Data Science roles: $125K
-Median hourly rate: $43.03
-Upper salary extreme: $920K
+## 💰 Salary Benchmarking:
 
-Interpretation: Compensation is stable at median level but highly skewed due to executive-level outliers.
+**Key Findings**
+  - Median annual salary for Data Science roles: $125K
+  - Median hourly rate: $43.03
+  - Upper salary extreme: $920K
 
+**Interpretation**
+The market shows:
+  - Stable mid-tier compensation
+  - Extreme compensation variance at senior/AI-specialist levels
+  
+**Business Impact**
+  - Helps candidates benchmark realistic salary expectations
+  - Helps recruiters calibrate compensation bands
+  
 ---
 
-## 📊 Job Demand Distribution
-Data Engineering: 129K listings
-Data Analysis: 113K listings
+## 📊 Job Demand Distribution:
 
-Interpretation: Data infrastructure roles dominate hiring demand.
+**Key Findings**
+  - Data Engineering: 129K listings
+  - Data Analysis: 113K listings
 
+**Interpretation**
+The industry prioritizes:
+  - Data infrastructure > analytics > science hierarchy
+  
+**Business Impact**
+  - Skill demand signals clearly favor engineering pipelines
+  - Entry-level analytics is competitive but saturated
+  
 ---
 
 ## 📉 Hiring Trends
-Hiring decline begins: July 2024
-Lowest point: November 2024
 
-Interpretation: Indicates market cooling or hiring contraction phase.
+**Key Findings**
+  - Hiring peak observed before mid-2024
+  - Significant decline begins: July 2024
+  - Lowest activity: Nov 2024
+
+**Interpretation** 
+Indicates:
+  - Market cooling phase OR hiring cycle correction
+  - Possible budget tightening in tech sector
+
+**Business Impact**
+  - Useful for workforce planning
+  - Signals timing sensitivity for job applications
 
 ---
 
 ## 🏢 Work Model Trends
-Remote jobs: 14%
-No degree requirement: 7%
 
-Interpretation: Market remains credential-driven with limited remote adoption.
+**Key Findings**
+    - Remote jobs: 14%
+    - No degree requirement: 7%
+
+**Interpretation** 
+The industry is:
+  - Moving away from fully remote models
+  - Still credential-driven despite skill-based hiring narratives
+
+**Business Impact**
+  - Candidates must adapt to hybrid expectations
+  - Upskilling + certifications still critical
+
+## 🧠 Strategic Market Insight
+
+The data job market is:
+  - Structurally strong but selective
+  - Engineering-heavy in demand
+  - Increasingly competitive at entry level 
+**👉 Key takeaway:**
+  - Data Engineering is the backbone role of modern analytics ecosystems.
