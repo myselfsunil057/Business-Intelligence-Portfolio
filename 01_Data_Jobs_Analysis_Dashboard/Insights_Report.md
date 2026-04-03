@@ -70,6 +70,7 @@ The industry is:
 The data job market is:
   - Structurally strong but selective
   - Engineering-heavy in demand
-  - Increasingly competitive at entry level 
+  - Increasingly competitive at entry level
+
 **👉 Key takeaway:**
   - Data Engineering is the backbone role of modern analytics ecosystems.
