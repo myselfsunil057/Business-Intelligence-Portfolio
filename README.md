@@ -35,11 +35,14 @@ The objective is to showcase the ability to transform raw datasets into **decisi
 
 ## 📊 Project Breakdown
 
+<img width="1342" height="751" alt="image" src="https://github.com/user-attachments/assets/1c424ee0-65d0-43ef-a68f-d9a3a155da54" />
 
 ## 1️⃣ Data Jobs Market Analysis Dashboard
 
 ### 🎯 Objective
 Analyze global job market trends in the data domain.
+
+<img width="1315" height="741" alt="Screenshot 2026-04-03 225836" src="https://github.com/user-attachments/assets/6bf1b6ef-101d-4372-bc79-dc287ffc4620" />
 
 ### 📌 Key Focus Areas
 - Salary benchmarking across roles
@@ -67,13 +70,15 @@ Analyze content distribution and platform content strategy.
 - Geographic distribution of content
 - Rating segmentation analysis
 
+<img width="1341" height="742" alt="image" src="https://github.com/user-attachments/assets/3b27e459-48e7-4a02-b163-e47b53228cff" />
+
+
 ### 💼 Business Outcome
 - Identifies content saturation areas (Drama-heavy library)
 - Highlights underrepresented content segments
 - Provides insights for content investment decisions
 
 ---
-
 ## 📈 Key Business Insights
 
 - Data Engineering and Data Analysis roles dominate job market demand.
