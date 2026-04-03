@@ -33,6 +33,8 @@ The content library is:
 - Strong opportunity for **niche and diversified content expansion**
 
 ---
+<img width="1341" height="742" alt="Screenshot 2026-04-03 230451" src="https://github.com/user-attachments/assets/bd79150b-a3b9-4f54-9b27-3d07007671fd" />
+
 
 ## 📈 Content Growth Trends
 
